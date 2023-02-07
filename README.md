@@ -1,6 +1,6 @@
 # XiShell.py
 
-Es un script en python muy simple que "automatiza" el proceso a la hora de buscar una reverse shell.
+Es un script en python muy simple que "acelera" el proceso a la hora de buscar una reverse shell.
 
 Se solicita una IP y un Puerto, listo!
 
