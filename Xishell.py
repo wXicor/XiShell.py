@@ -139,6 +139,9 @@ def showall():
     print('p.waitFor()')
     print(Fore.GREEN +'-----------------------------------'+ Fore.RESET)
 
+def figlet(text):
+    result = pyfiglet.figlet_format(text)
+    print(result)
 
 text = "XiShell.py"
 
